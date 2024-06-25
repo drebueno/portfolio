@@ -136,5 +136,9 @@ background-color: var(--cor-hover);
     .apresentacao__conteudo{
         width: auto;
     }
+
+    .apresentacao__imagem{
+        width: 90%;
+    }
 }
 
